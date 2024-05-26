@@ -1,21 +1,29 @@
 Sports Events Analysis
 
 Description : 
-The Sports Data Analysis Project is undertaken by XYZ Co Pvt Ltd, a company that organizes sports events at an international level. Countries nominate sportsmen from various departments, and our team has been given the responsibility to systematize the membership rosters and generate different reports as per business requirements. This project focuses on extracting valuable insights from key datasets within the Excelerate platform.
+
+The Sports Data Analysis Project is undertaken by XYZ Co Pvt Ltd, a company that organizes sports events at an international level. Countries nominate sportsmen from various departments, and our team has been given the responsibility to systematize the membership rosters and generate different reports as per business requirements. This project focuses on extracting valuable insights from key datasets within the Excelerate platform. 
 
 Key Objectives : 
+
 •	To gain insights into gender-based analysis across different locations.
+
 •	To understand gender distribution, country participation, and demographic patterns of participants in various sports settings.
 
 Tools Used : 
+
 •	Advanced Excel
 
 Data Overview : 
+
 •	Sportsmen Data: This dataset includes detailed information about sportsmen, such as their member ID, full name, birthdate, zodiac sign, gender, country, language, weight, eye color, blood type, sports location, sports type, and salary.
+
 •	Sports Data: This dataset lists the different sports and whether they are indoor or outdoor activities.
+
 •	Location Data: This dataset includes information about the languages spoken and the countries, identified by country code and name.
 
 Steps Taken : 
+
 1: Data Cleaning and Additional Columns
 In this step, I performed data cleaning and added new columns to the dataset. These columns included Gmail etc. and other necessary data transformations.
 
