@@ -45,8 +45,11 @@ Insights
 
 Recommendations:
 Increase Female Participation: Encourage more female participation in countries with low female representation, such as Brazil and Portugal, through targeted outreach and support programs.
+
 Leverage Strong Participation: Capitalize on the strong participation from the USA by promoting more events and opportunities within the country to maintain and boost engagement.
+
 Balanced Gender Representation: Aim for balanced gender representation in future nominations by setting specific targets and providing incentives for countries to nominate more female sportsmen.
+
 Promote Lesser-Represented Sports: Encourage participation in lesser-represented sports.
 
 Conclusion
