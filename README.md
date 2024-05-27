@@ -1,4 +1,5 @@
 Project-1: Consummer Complaints Analysis
+
 Examining and Analyzing Consumer Complaints Data
 
 Overview :
@@ -12,6 +13,7 @@ To analyze consumer complaint resolution data for a regulatory agency's assessme
 Data Availability : 
 
 The client provided data in two tables:
+
 •	Consumer Complaints: Contains information from different banks and financial institutions, including Product, Issue, Complaint Channel, Resolution Time, Dispute Status, etc. This table has over 280235 records.
 
 •	State Codes: Consists of state codes and their corresponding state names.
@@ -58,7 +60,6 @@ Insights :
 
 4.	Complaint Distribution by Product and Issue:
 •	Complaints are concentrated in a few specific products and issues. For example, mortgage-related complaints and issues like loan servicing and foreclosure are prevalent.
-
 •	This concentration suggests a need for targeted improvements in these areas to reduce overall complaint volumes.
 
 5.	Complaint Channels:
@@ -66,12 +67,10 @@ Insights :
 
 6.	Dispute Status:
 •	A notable portion of complaints involves disputes that are not resolved in favor of the consumer, which could impact customer trust and loyalty.
-
 •	Banks with higher unresolved dispute rates need to review their dispute resolution processes.
 
 7.	State-Level Analysis:
 •	Certain states report higher complaint volumes, which could be due to larger populations or specific regional issues.
-
 •	State-level differences suggest the need for localized strategies to address specific concerns effectively.
 
 Recommendations : 
@@ -129,16 +128,17 @@ In this step, I performed data cleaning and added new columns to the dataset. Th
 2: Summary Table Using Pivot Table
 Using Excel's pivot table functionality, I created a summary table that counts the number of male and female sportsmen from different countries. This helps in understanding the gender distribution across various countries. 
 
-
 3: Summary Table Using Pivot Table : 
 Using pivot table functionality, I tried to get gender distribution, country participation, and demographic patterns of participants in various sports settings.
 
 Insights : 
+
 1.	Geographical Insights: The USA has the highest representation of sportsmen, both male and female, indicating a strong participation from this country. Other notable countries with significant representation include Australia and France.
 
 2.	Gender Distribution: Certain countries like Argentina and Germany have a more balanced gender distribution, while others like Brazil and Portugal have a predominantly male representation.
 
 Recommendations : 
+
 Increase Female Participation: Encourage more female participation in countries with low female representation, such as Brazil and Portugal, through targeted outreach and support programs.
 
 Leverage Strong Participation: Capitalize on the strong participation from the USA by promoting more events and opportunities within the country to maintain and boost engagement.
