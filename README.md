@@ -91,6 +91,7 @@ The client provided data in two tables:
 •	The state-level differences in complaint volumes suggest that banks should adopt localized strategies to address specific regional issues. This can include tailored customer support, targeted communication, and specific service improvements.
 
 **Conclusion :** 
+
 The analysis of consumer complaint data reveals critical areas for improvement in the banking sector. By focusing on reducing resolution times, targeting high-complaint products and issues, enhancing digital communication, and strengthening dispute resolution processes, banks can significantly improve consumer satisfaction. Additionally, localized strategies and prioritization using Pareto analysis can lead to more effective and efficient complaint management. 
 
 
@@ -148,5 +149,6 @@ Balanced Gender Representation: Aim for balanced gender representation in future
 Promote Lesser-Represented Sports: Encourage participation in lesser-represented sports.
 
 **Conclusion :** 
+
 The Sports Data Analysis Project, conducted by XYZ Co Pvt Ltd, provides comprehensive insights into the gender distribution and geographical representation of sportsmen. With these insights, the project offers valuable recommendations to optimize processes and strategies, thereby driving strategic decisions and improving overall participation and engagement in international sports events.
 
