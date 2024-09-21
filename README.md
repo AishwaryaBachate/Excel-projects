@@ -1,4 +1,4 @@
-**Project-1: Consummer Complaints Analysis**
+# Project-1: Consummer Complaints Analysis
 
 **Examining and Analyzing Consumer Complaints Data**
 
@@ -97,7 +97,7 @@ The analysis of consumer complaint data reveals critical areas for improvement i
 
 
 
-**Project-2 : Sports Events Analysis**
+# Project-2 : Sports Events Analysis
 
 **Description :** 
 
