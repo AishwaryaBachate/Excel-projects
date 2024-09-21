@@ -1,16 +1,16 @@
-Project-1: Consummer Complaints Analysis
+**Project-1: Consummer Complaints Analysis**
 
-Examining and Analyzing Consumer Complaints Data
+**Examining and Analyzing Consumer Complaints Data**
 
-Overview :
+**Overview :**
 
 This project involves the examination and analysis of consumer complaints data from leading banks and financial institutions. The objective is to analyze consumer complaint resolution data, create a dashboard, and gain insights to enhance the direction of improving consumer experience.
 
-Objective : 
+**Objective :**
 
 To analyze consumer complaint resolution data for a regulatory agency's assessment. The goal is to develop a dashboard and derive insights that can help in improving the overall consumer experience.
 
-Data Availability : 
+**Data Availability :**
 
 The client provided data in two tables:
 
@@ -18,27 +18,27 @@ The client provided data in two tables:
 
 •	State Codes: Consists of state codes and their corresponding state names.
 
-Tools Used : 
+**Tools Used :** 
 •	Advanced Excel: Text, Aggregate, Index-Match functions, Pivot Tables, Charts, Slicers, Filters.
 
-Techniques Used : 
+**Techniques Used :**
 •	Exploratory Data Analysis
 •	Data Cleaning
 •	Creation of Dashboards
 •	Insights Generation
 
-Types of Charts Used : 
+**Types of Charts Used :**
 •	Line Chart
 •	Bar Chart
 •	Pie Chart
 •	Stacked Chart
 
-High-level Steps : 
+**High-level Steps :**
 •	Conducted detailed exploratory data analysis on key performance indicators (KPIs) such as year-on-year percentage change in complaints, timely response, and average resolution time to efficiently minimize and address end-user complaints.
 
 •	Developed a dynamic dashboard to facilitate a high-level understanding of data across multiple granularities, including complaint channel, complaint type, product, location, etc.
 
-Detailed Steps : 
+**Detailed Steps :**
 •	Analyzed consumer complaints data from multiple organizations and developed strategies to enhance the complaint resolution process.
 
 •	Examined various Key Performance Indicators (KPIs) such as year-on-year changes in the percentage of complaints, timely response to complaints, average resolution time, and monthly trends to gain insights into overall customer experience. This analysis was further done at the state level, bank level, product level, type of complaint, dispute status, channel, and time (month, year, day, week).
@@ -47,7 +47,7 @@ Detailed Steps :
 
 •	Formulated a strategy to prioritize complaints for resolution.
 
-Insights : 
+**Insights :** 
 
 1.	Year-on-Year Complaint Trends:
 •	There has been a noticeable increase in the number of complaints year-on-year, indicating growing customer awareness or potential issues with banking services, then decreased in 2016.
@@ -73,7 +73,7 @@ Insights :
 •	Certain states report higher complaint volumes, which could be due to larger populations or specific regional issues.
 •	State-level differences suggest the need for localized strategies to address specific concerns effectively.
 
-Recommendations : 
+**Recommendations :** 
 
 1.	Improve Timeliness and Efficiency in Complaint Resolution:
 •	Focus on reducing resolution times, particularly for products and issues with historically higher averages. Implementing more efficient processes and better resource allocation can help achieve this.
@@ -90,29 +90,29 @@ Recommendations :
 5.	Localized Strategies for State-Level Issues:
 •	The state-level differences in complaint volumes suggest that banks should adopt localized strategies to address specific regional issues. This can include tailored customer support, targeted communication, and specific service improvements.
 
-Conclusion : 
+**Conclusion :** 
 The analysis of consumer complaint data reveals critical areas for improvement in the banking sector. By focusing on reducing resolution times, targeting high-complaint products and issues, enhancing digital communication, and strengthening dispute resolution processes, banks can significantly improve consumer satisfaction. Additionally, localized strategies and prioritization using Pareto analysis can lead to more effective and efficient complaint management. 
 
 
 
 
-Project-2 : Sports Events Analysis
+**Project-2 : Sports Events Analysis**
 
-Description : 
+**Description :** 
 
 The Sports Data Analysis Project is undertaken by XYZ Co Pvt Ltd, a company that organizes sports events at an international level. Countries nominate sportsmen from various departments, and our team has been given the responsibility to systematize the membership rosters and generate different reports as per business requirements. This project focuses on extracting valuable insights from key datasets within the Excelerate platform. 
 
-Key Objectives : 
+**Key Objectives :**
 
 •	To gain insights into gender-based analysis across different locations.
 
 •	To understand gender distribution, country participation, and demographic patterns of participants in various sports settings.
 
-Tools Used : 
+**Tools Used :**
 
 •	Advanced Excel
 
-Data Overview : 
+**Data Overview :** 
 
 •	Sportsmen Data: This dataset includes detailed information about sportsmen, such as their member ID, full name, birthdate, zodiac sign, gender, country, language, weight, eye color, blood type, sports location, sports type, and salary.
 
@@ -120,7 +120,7 @@ Data Overview :
 
 •	Location Data: This dataset includes information about the languages spoken and the countries, identified by country code and name.
 
-Steps Taken : 
+**Steps Taken :** 
 
 1: Data Cleaning and Additional Columns
 In this step, I performed data cleaning and added new columns to the dataset. These columns included Gmail etc. and other necessary data transformations.
@@ -131,13 +131,13 @@ Using Excel's pivot table functionality, I created a summary table that counts t
 3: Summary Table Using Pivot Table : 
 Using pivot table functionality, I tried to get gender distribution, country participation, and demographic patterns of participants in various sports settings.
 
-Insights : 
+**Insights :** 
 
 1.	Geographical Insights: The USA has the highest representation of sportsmen, both male and female, indicating a strong participation from this country. Other notable countries with significant representation include Australia and France.
 
 2.	Gender Distribution: Certain countries like Argentina and Germany have a more balanced gender distribution, while others like Brazil and Portugal have a predominantly male representation.
 
-Recommendations : 
+**Recommendations :** 
 
 Increase Female Participation: Encourage more female participation in countries with low female representation, such as Brazil and Portugal, through targeted outreach and support programs.
 
@@ -147,6 +147,6 @@ Balanced Gender Representation: Aim for balanced gender representation in future
 
 Promote Lesser-Represented Sports: Encourage participation in lesser-represented sports.
 
-Conclusion : 
+**Conclusion :** 
 The Sports Data Analysis Project, conducted by XYZ Co Pvt Ltd, provides comprehensive insights into the gender distribution and geographical representation of sportsmen. With these insights, the project offers valuable recommendations to optimize processes and strategies, thereby driving strategic decisions and improving overall participation and engagement in international sports events.
 
